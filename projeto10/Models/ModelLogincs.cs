@@ -7,5 +7,7 @@ namespace projeto10.Models
 {
     public class ModelLogincs
     {
+        string usuario { get; set; }
+        string senha { get; set; }
     }
 }
